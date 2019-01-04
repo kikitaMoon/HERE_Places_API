@@ -1,0 +1,22 @@
+.button {
+    height: 10;
+}
+
+.result1 {
+    text-align: left;
+    background-color: rgb(127, 255, 127)
+}
+
+.result2 {
+    text-align: left;
+    background-color: rgb(255, 127, 217)
+}
+
+.result3 {
+    text-align: left;
+    background-color: aquamarine
+}
+
+.url {
+    width: 500vw
+}

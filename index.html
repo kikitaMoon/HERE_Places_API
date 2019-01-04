@@ -1,0 +1,35 @@
+<!doctype html>
+
+<head>
+    <meta charset="utf-8">
+    <title> Places Action Entrypount Demo </title>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="styles/main.css">
+
+</head>
+
+
+<body>
+
+    <h1>Places (Search) API - Action Entrypount - Demo</h1>
+    <p>HERE HQ in Berlin, Germany - LatLon : 52.530974,13.384944</p>
+    <p>Places Search - Request URL:</p>
+    <div class="url">https://places.cit.api.here.com/places/v1/discover/search?q=cafe&in=52.530974%2C13.384944%3Br%3D100&app_id={}&app_code={}</div>
+    <br>
+    <button id="button1" class="button" onclick="requestSearchAPI()">Click Me</button>
+    <br>
+    <p>Response:</p>
+    <div id="result1" class="result1"></div>
+    <div id="result2" class="result2"></div>
+    <div id="result3" class="result3"></div>
+    <div id="action-url"></div>
+
+
+    <!-- Scripts -->
+    <script src="scripts/app.js"></script>
+
+
+</body>
+
+</html>

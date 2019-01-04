@@ -1,0 +1,230 @@
+{
+    "results": {
+        "items": [
+            {
+                "position": [52.53161, 13.38536],
+                "distance": 76,
+                "title": "Primo Cafebar",
+                "averageRating": 0.0,
+                "category": {
+                    "id": "restaurant",
+                    "title": "Restaurant",
+                    "href": "https://places.cit.api.here.com/places/v1/categories/places/restaurant?app_id=oyNWTbKIov6XPMlrXxCH&app_code=_W_7qfgpOxthQ4tQQKkbLA",
+                    "type": "urn:nlp-types:category",
+                    "system": "places"
+                },
+                "icon": "https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/03.icon",
+                "vicinity": "Caroline-Michaelis-Straße 1 Mitte, 10115 Berlin ",
+                "having ": [],
+                "type ": " urn: nlp - types: place ",
+                "href ": "https: //places.cit.api.here.com/places/v1/places/276aabd1-1657cfabf73d0b49b57772877bd8ac40;context=Zmxvdy1pZD0xMzY3NTc1Yy00NWRmLTUxYTItYjdmZi04MDQ2ZGMzMDViOTBfMTU0NjU5NjMwNDkyMF83OTEyXzY5MSZyYW5rPTA?app_id=oyNWTbKIov6XPMlrXxCH&app_code=_W_7qfgpOxthQ4tQQKkbLA",
+                "id": "276aabd1-1657cfabf73d0b49b57772877bd8ac40",
+                "openingHours": {
+                    "text": "Mon-Fri: 08:00 - 18:00 Sat, Sun: 10: 00 - 17: 00 ",
+                    "label ": "Opening hours ",
+                    "isOpen ": true,
+                    "structured ": [
+                        {
+                            "start ": "T080000 ",
+                            "duration ": "recurrence FREQ: DAILY;BYDAY: MO,TU,WE,TH,FR "
+                        },
+                        {
+                            "start ": "T100000 ",
+                            "duration ": "PT07H00M ",
+                            "recurrence ": "FREQ: DAILY;BYDAY: SA,SU "
+                        }
+                    ]
+                }
+            },
+                    
+                    
+                    
+                    {"
+                    position ":[52.53019,13.38379],"
+                    distance ":117,"
+                    title ":"
+                    R / D ","
+                    averageRating ":0.0,"
+                    category ":{"
+                    id ":"
+                    restaurant ","
+                    title ":"
+                    Restaurant ","
+                    href ":"
+                    https: //places.cit.api.here.com/places/v1/categories/places/restaurant?app_id=oyNWTbKIov6XPMlrXxCH&app_code=_W_7qfgpOxthQ4tQQKkbLA","type":"urn:nlp-types:category","system":"places"},"icon":"https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/03.icon","vicinity":"Chausseestraße 19
+                        Mitte,
+                    10115 Berlin ","
+                    having ":[],"
+                    type ":"
+                    urn: nlp - types: place ","
+                    href ":"
+                    https: //places.cit.api.here.com/places/v1/places/276u33db-f7f09f23841748d4a7904fc00499f315;context=Zmxvdy1pZD0xMzY3NTc1Yy00NWRmLTUxYTItYjdmZi04MDQ2ZGMzMDViOTBfMTU0NjU5NjMwNDkyMF83OTEyXzY5MSZyYW5rPTE?app_id=oyNWTbKIov6XPMlrXxCH&app_code=_W_7qfgpOxthQ4tQQKkbLA","id":"276u33db-f7f09f23841748d4a7904fc00499f315","openingHours":{"text":"Mon-Thu: 08:00 - 23:00
+                        Fri: 08: 00 - 00: 00
+                    Sat: 12: 00 - 00: 00 ","
+                    label ":"
+                    Opening hours ","
+                    isOpen ":true,"
+                    structured ":[{"
+                    start ":"
+                    T080000 ","
+                    duration ":"
+                    PT15H00M ","
+                    recurrence ":"
+                    FREQ: DAILY;BYDAY: MO,
+                    TU,
+                    WE,
+                    TH "},{"
+                    start ":"
+                    T080000 ","
+                    duration ":"
+                    PT16H00M ","
+                    recurrence ":"
+                    FREQ: DAILY;BYDAY: FR "},{"
+                    start ":"
+                    T120000 ","
+                    duration ":"
+                    PT12H00M ","
+                    recurrence ":"
+                    FREQ: DAILY;BYDAY: SA "}]},"
+                    alternativeNames ":[{"
+                    name ":"
+                    R / D Coffee Bar ","
+                    language ":"
+                    en "},{"
+                    name ":"
+                    R / d ","
+                    language ":"
+                    de "}]},{"
+                    position ":[52.53161,13.38536],"
+                    distance ":76,"
+                    title ":"
+                    Cafe Si ","
+                    averageRating ":0.0,"
+                    category ":{"
+                    id ":"
+                    snacks - fast - food ","
+                    title ":"
+                    Snacks / Fast food ","
+                    href ":"
+                    https: //places.cit.api.here.com/places/v1/categories/places/snacks-fast-food?app_id=oyNWTbKIov6XPMlrXxCH&app_code=_W_7qfgpOxthQ4tQQKkbLA","type":"urn:nlp-types:category","system":"places"},"icon":"https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/03.icon","vicinity":"Caroline-Michaelis-Straße 1
+                        Mitte,
+                    10115 Berlin ","
+                    having ":[],"
+                    type ":"
+                    urn: nlp - types: place ","
+                    href ":"
+                    https: //places.cit.api.here.com/places/v1/places/276u33db-beadd916a884480eb13c9d820773229d;context=Zmxvdy1pZD0xMzY3NTc1Yy00NWRmLTUxYTItYjdmZi04MDQ2ZGMzMDViOTBfMTU0NjU5NjMwNDkyMF83OTEyXzY5MSZyYW5rPTI?app_id=oyNWTbKIov6XPMlrXxCH&app_code=_W_7qfgpOxthQ4tQQKkbLA","tags":[{"id":"italian","title":"Italian","group":"cuisine"}],"id":"276u33db-beadd916a884480eb13c9d820773229d"},{"position":[52.53077,13.38371],"distance":86,"title":"Bäcker Taudien","averageRating":0.0,"category":{"id":"food-drink","title":"Food & Drink","href":"https://places.cit.api.here.com/places/v1/categories/places/food-drink?app_id=oyNWTbKIov6XPMlrXxCH&app_code=_W_7qfgpOxthQ4tQQKkbLA","type":"urn:nlp-types:category","system":"places"},"icon":"https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/09.icon","vicinity":"Invalidenstraße 34
+                        Mitte,
+                    10115 Berlin ","
+                    having ":[],"
+                    type ":"
+                    urn: nlp - types: place ","
+                    href ":"
+                    https: //places.cit.api.here.com/places/v1/places/276u33db-7fc8634e6df04fd2b2f0f78e2c0a98b5;context=Zmxvdy1pZD0xMzY3NTc1Yy00NWRmLTUxYTItYjdmZi04MDQ2ZGMzMDViOTBfMTU0NjU5NjMwNDkyMF83OTEyXzY5MSZyYW5rPTM?app_id=oyNWTbKIov6XPMlrXxCH&app_code=_W_7qfgpOxthQ4tQQKkbLA","id":"276u33db-7fc8634e6df04fd2b2f0f78e2c0a98b5"},{"position":[52.53062,13.38329],"distance":119,"title":"Marcann's","averageRating":0.0,"category":{"id":"restaurant","title":"Restaurant","href":"https://places.cit.api.here.com/places/v1/categories/places/restaurant?app_id=oyNWTbKIov6XPMlrXxCH&app_code=_W_7qfgpOxthQ4tQQKkbLA","type":"urn:nlp-types:category","system":"places"},"icon":"https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/03.icon","vicinity":"Invalidenstraße 112
+                        Mitte,
+                    10115 Berlin ","
+                    having ":[],"
+                    type ":"
+                    urn: nlp - types: place ","
+                    href ":"
+                    https: //places.cit.api.here.com/places/v1/places/276u33db-721a58f28e904a28a85ee6ee578eaad6;context=Zmxvdy1pZD0xMzY3NTc1Yy00NWRmLTUxYTItYjdmZi04MDQ2ZGMzMDViOTBfMTU0NjU5NjMwNDkyMF83OTEyXzY5MSZyYW5rPTQ?app_id=oyNWTbKIov6XPMlrXxCH&app_code=_W_7qfgpOxthQ4tQQKkbLA","tags":[{"id":"french","title":"French","group":"cuisine"},{"id":"sandwich","title":"Sandwiches","group":"cuisine"}],"id":"276u33db-721a58f28e904a28a85ee6ee578eaad6","openingHours":{"text":"Mon-Fri: 07:00 - 18:00
+                        Sat: 08: 30 - 14: 00
+                    Sun: 00: 00 - 23: 59 ","
+                    label ":"
+                    Opening hours ","
+                    isOpen ":true,"
+                    structured ":[{"
+                    start ":"
+                    T070000 ","
+                    duration ":"
+                    PT11H00M ","
+                    recurrence ":"
+                    FREQ: DAILY;BYDAY: MO,
+                    TU,
+                    WE,
+                    TH,
+                    FR "},{"
+                    start ":"
+                    T083000 ","
+                    duration ":"
+                    PT05H30M ","
+                    recurrence ":"
+                    FREQ: DAILY;BYDAY: SA "},{"
+                    start ":"
+                    T000000 ","
+                    duration ":"
+                    PT23H59M ","
+                    recurrence ":"
+                    FREQ: DAILY;BYDAY: SU "}]},"
+                    alternativeNames ":[{"
+                    name ":"
+                    MarcAnn 's","language":"de"}]},{"position":[52.53075,13.38341],"distance":107,"title":"Balzac Coffee Shop","averageRating":0.0,"category":{"id":"restaurant","title":"Restaurant","href":"https://places.cit.api.here.com/places/v1/categories/places/restaurant?app_id=oyNWTbKIov6XPMlrXxCH&app_code=_W_7qfgpOxthQ4tQQKkbLA","type":"urn:nlp-types:category","system":"places"},"icon":"https://download.vcdn.cit.data.here.com/p/d/places2_stg/icons/categories/03.icon","vicinity":"Invalidenstraße 35
+                    Mitte,
+                    10115 Berlin ","
+                    having ":[],"
+                    type ":"
+                    urn: nlp - types: place ","
+                    href ":"
+                    https: //places.cit.api.here.com/places/v1/places/276u33db-1d784f95a83c4435b6789a00163f8220;context=Zmxvdy1pZD0xMzY3NTc1Yy00NWRmLTUxYTItYjdmZi04MDQ2ZGMzMDViOTBfMTU0NjU5NjMwNDkyMF83OTEyXzY5MSZyYW5rPTU?app_id=oyNWTbKIov6XPMlrXxCH&app_code=_W_7qfgpOxthQ4tQQKkbLA","tags":[{"id":"german","title":"German","group":"cuisine"}],"id":"276u33db-1d784f95a83c4435b6789a00163f8220","openingHours":{"text":"Mon-Fri: 06:30 - 20:30
+                        Sat: 07: 30 - 20: 30
+                    Sun: 07: 30 - 20: 00 ","
+                    label ":"
+                    Opening hours ","
+                    isOpen ":true,"
+                    structured ":[{"
+                    start ":"
+                    T063000 ","
+                    duration ":"
+                    PT14H00M ","
+                    recurrence ":"
+                    FREQ: DAILY;BYDAY: MO,
+                    TU,
+                    WE,
+                    TH,
+                    FR "},{"
+                    start ":"
+                    T073000 ","
+                    duration ":"
+                    PT13H00M ","
+                    recurrence ":"
+                    FREQ: DAILY;BYDAY: SA "},{"
+                    start ":"
+                    T073000 ","
+                    duration ":"
+                    PT12H30M ","
+                    recurrence ":"
+                    FREQ: DAILY;BYDAY: SU "}]},"
+                    chainIds ":["
+                    7552 "],"
+                    alternativeNames ":[{"
+                    name ":"
+                    Balzac Coffee ","
+                    language ":"
+                    de "}]}]},"
+                    search ":{"
+                    context ":{"
+                    location ":{"
+                    position ":[52.530974,13.384944],"
+                    address ":{"
+                    text ":"
+                    Mitte,
+                    10115 Berlin
+                    Germany ","
+                    postalCode ":"
+                    10115 ","
+                    district ":"
+                    Mitte ","
+                    city ":"
+                    Berlin ","
+                    county ":"
+                    Berlin ","
+                    stateCode ":"
+                    Berlin ","
+                    country ":"
+                    Germany ","
+                    countryCode ":"
+                    DEU "}},"
+                    type ":"
+                    urn: nlp - types: place ","
+                    href ":"
+                    https: //places.cit.api.here.com/places/v1/places/loc-dmVyc2lvbj0xO3RpdGxlPU1pdHRlO2xhdD01Mi41MzA5NzQ7bG9uPTEzLjM4NDk0NDtjaXR5PUJlcmxpbjtwb3N0YWxDb2RlPTEwMTE1O2NvdW50cnk9REVVO2Rpc3RyaWN0PU1pdHRlO3N0YXRlQ29kZT1CZXJsaW47Y291bnR5PUJlcmxpbjtjYXRlZ29yeUlkPWNpdHktdG93bi12aWxsYWdlO3NvdXJjZVN5c3RlbT1pbnRlcm5hbA;context=c2VhcmNoQ29udGV4dD0x?app_id=oyNWTbKIov6XPMlrXxCH&app_code=_W_7qfgpOxthQ4tQQKkbLA"},"supportsPanning":true,"ranking":"category-recommendations"}}
