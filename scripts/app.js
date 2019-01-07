@@ -15,7 +15,7 @@ function postAction(li) {
             }]
         }),
         success: function (data, status) {
-            alert("data: \n" + data + "\n status: " + status);
+            alert(  "status: " + status + "\n" + actionURL );
         }
     });
 }
