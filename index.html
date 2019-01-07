@@ -14,19 +14,29 @@
 <body>
 
     <h1>Places (Search) API - Action Entrypount - Demo</h1>
-    <p>HERE HQ in Berlin, Germany - LatLon : 52.530974,13.384944</p>
-    <p>Places Search - Request URL:</p>
-    <div class="url">https://places.cit.api.here.com/places/v1/discover/search?q=cafe&in=52.530974%2C13.384944%3Br%3D100&app_id={}&app_code={}</div>
-    <br>
-    <button id="button1" class="button" onclick="requestSearchAPI()">Click Me</button>
-    <br>
+
+    <p><i>HERE HQ in Berlin, Germany - LatLon : 52.530974,13.384944</i></p>
+
+
+    <div class="url">Search - Request URL:
+        <a href="https://places.cit.api.here.com/places/v1/discover/search?q=cafe&in=52.530974%2C13.384944%3Br%3D120&app_id=oyNWTbKIov6XPMlrXxCH&app_code=_W_7qfgpOxthQ4tQQKkbLA">
+            https://places.cit.api.here.com/places/v1/discover/search?q=cafe&in=52.530974%2C13.384944%3Br%3D100&app_id={}&app_code={}</a>
+    </div>
+
+
+
+    <div>
+        <p>click button to find cafes that 100m around HERE HQ</p>
+        <button id="button1" class="button" onclick="requestSearchAPI()">Click</button><br>
+    </div>
+
+
     <p>Response:</p>
     <div id="result1" class="result1"></div>
     <div id="result3" class="result3">
-        <ol id="list" ></ol>
+        <ol id="list"></ol>
     </div>
     <div id="action-url"></div>
-
 
     <!-- Scripts -->
     <script src="scripts/app.js"></script>
